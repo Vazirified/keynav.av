@@ -29,11 +29,11 @@ alt+m move-left,move-down
 alt+period move-right,move-down
 space warp,click 1,end
 semicolon warp,end
-a click 1
-s click 2
-d click 3
-f click 4
-v click 5
+a warp,click 1
+s warp,click 2
+d warp,click 3
+f warp,click 4
+v warp,click 5
 KP_1 cell-select 1x3
 KP_2 cell-select 2x3
 KP_3 cell-select 3x3
