@@ -72,7 +72,7 @@ ctrl+n cut-right,cut-down
 #w warp
 
 ### History
-a history-back
+#a history-back
 
 ### Example of cut and move without the default values
 #h cut-left .75
