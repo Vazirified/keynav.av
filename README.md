@@ -7,6 +7,8 @@ The _keynav_ application software is an excellent piece of code living at [Jorda
 
 After about two years of being an avid user of _keynav_, I have changed the configuration to meet my needs and I am publishing my [configuration (as keynav.av located in configuration-rc directory)](https://github.com/Vazirified/keynav.av/blob/main/configuration-rc/keynav.av) here in this repository, so that others with the same taste and workflow as myself may be able to pick up to the speed easier and faster.
 
+This configuration file is also compatible with [_keynavish_ by Les De Ridder](https://github.com/lesderid/keynavish) which is a rewrite of keynav for MS-Windows.
+
 ---
 
 The configuration file "keynav.av" is self-explanatory, but as a short, more human-readable introduction to the way keynav will work after being configured with it, please read on...
